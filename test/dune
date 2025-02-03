@@ -1,0 +1,4 @@
+(test
+ (name untypedtest)
+ (libraries ounit2 untyped)  
+)

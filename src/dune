@@ -1,0 +1,4 @@
+(library
+ (name untyped)            ;; Name of the module (module name is 'Untyped')  ;; Optional fully-qualified name (adjust if needed)
+ (flags (:standard))       ;; Use standard OCaml compilation flags
+)
